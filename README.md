@@ -1,6 +1,7 @@
 # What drives the price of a car?
 
-__Jupyter Notebook with code, experimentation, further insights, and deployment strategies:__ click here.
+__Jupyter Notebook with code, experimentation, further insights, and deployment strategies:__ [click here](https://github.com/SubraSundaram/Car-Price-Analysis/blob/main/Subra_practical_application_prompt_II.ipynb).
+
 __Reference credit: Insights and the project demonstrated during the office hour for this week.__
 
 ## Business Goal
