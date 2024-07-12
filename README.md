@@ -14,7 +14,7 @@ The dataset contains 17 baseline variables, four of which are numeric and the re
 We employed regression modeling to predict the car's price. The models evaluated include linear regression, Ridge Regression, and Lasso Regression. Each model was trained and evaluated using a train/test split, followed by cross-validation and hyperparameter tuning using GridSearchCV to oprimize performance.
 
 Among these, Linear Regression model demonstrated slightly better performance with a Root Mean Square Error (RMSE) of 7499.53 and and R-squared (R^2) value of 0.6275. This means that the model preductions are off by about $7500 from the actual price of the car. Additionally, approximately 62.75% of the variance in the price of the car is explained by the features in the model.
-
+![Alt text](Actual_vs_Predicted.png?raw=true "Actual vs Predicted Price")
 
 As can be seen from the plot above, the predicted and the actual values are within the RMSE range until about $40,000. After that the prediction error seems to be higher. 
 
