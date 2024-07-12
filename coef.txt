@@ -1,0 +1,26 @@
+Lasso Regression Coefficients:
+onehotencoder__manufacturer_ferrari         30516.917594
+onehotencoder__manufacturer_aston-martin    26777.026249
+onehotencoder__manufacturer_tesla           22747.707862
+onehotencoder__fuel_electric                14843.753166
+onehotencoder__fuel_hybrid                  12338.899410
+                                                ...     
+onehotencoder__manufacturer_toyota            204.017676
+onehotencoder__paint_color_purple             187.136114
+onehotencoder__type_convertible               168.101717
+onehotencoder__manufacturer_jeep              157.799427
+remainder__odometer                             0.122867
+Length: 76, dtype: float64 onehotencoder__manufacturer_ferrari            30516.917594
+onehotencoder__manufacturer_aston-martin       26777.026249
+onehotencoder__manufacturer_tesla              22747.707862
+onehotencoder__manufacturer_porsche             9769.099307
+onehotencoder__type_pickup                      7351.783452
+                                                   ...     
+onehotencoder__title_status_parts only        -10374.930386
+onehotencoder__fuel_gas                       -12076.083568
+onehotencoder__manufacturer_harley-davidson   -12100.159068
+onehotencoder__fuel_hybrid                    -12338.899410
+onehotencoder__fuel_electric                  -14843.753166
+Length: 76, dtype: float64
+
+Intercept: -631935.8489686422
