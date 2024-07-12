@@ -8,7 +8,7 @@ This project aims to identify which factors about a used car drive its price hig
 
 ## Data
 The dataset contains 17 baseline variables, four of which are numeric and the remaining categorical. The target is the “price” of the car sold. The distribution of the price variable after the removal of the outliers and duplicates is shown below. As can be seen, the dataset has a long tail.
-
+![Alt text](price_distrib.png?raw=true "Target Price Distribution")
 
 ## Modeling and performance
 We employed regression modeling to predict the car's price. The models evaluated include linear regression, Ridge Regression, and Lasso Regression. Each model was trained and evaluated using a train/test split, followed by cross-validation and hyperparameter tuning using GridSearchCV to oprimize performance.
